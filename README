@@ -7,7 +7,6 @@ Library Documentation
 *make_btree_from_dictionary.php
     This is a script that takes the example dictionary and builds the btree as an PHP object thats serialized and saved
     into btree_serialized.txt.
-    If you dont want to run this script, you can uncompress the btree_serialized.txt.tar.gz file.
 
 *benchmark.php
     Runs a small benchmark using the serialized Btree that can be built using make_btree_from_dictionary.php
